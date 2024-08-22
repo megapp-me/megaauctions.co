@@ -1,1 +1,0 @@
-# megaauctions.co

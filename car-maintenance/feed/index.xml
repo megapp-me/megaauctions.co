@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	دیدگاه‌ها برای: مراقبت از ماشین در خانه	</title>
-	<atom:link href="/car-maintenance/feed/" rel="self" type="application/rss+xml" />
-	<link>/car-maintenance/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>یک مزایده بزرگ، یک برد بزرگتر</description>
 	<lastBuildDate>Sun, 07 Apr 2024 07:58:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

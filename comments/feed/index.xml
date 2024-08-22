@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	دیدگاه‌ها برای مگا	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>یک مزایده بزرگ، یک برد بزرگتر</description>
 	<lastBuildDate>Thu, 22 Aug 2024 12:51:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
